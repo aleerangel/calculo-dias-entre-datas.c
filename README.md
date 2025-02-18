@@ -1,4 +1,4 @@
-<h1>Jogo do número secreto</h1>
+<h1>Proograma que calcula a diferença de dias enttre duas datas</h1>
 
 <h2> :memo: Sobre</h2>
 <p>Projeto aprimorado de atividade de Programação 1 no curso de Ciência da Computação UFES.</p>
